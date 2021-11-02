@@ -1,9 +1,10 @@
 # Deber_1
-# Resumen capitulo 1:
 
 **INTEGRANTES:** Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 
+# Resumen capitulo 1:
 
+![](https://github.com/frmayorga/Deber_1/blob/main/resumen%20c1.jpg)
 
 
 
