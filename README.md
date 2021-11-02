@@ -1,4 +1,5 @@
 # Deber_1
+# Resumen capitulo 1:
 
 **INTEGRANTES:** Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 
