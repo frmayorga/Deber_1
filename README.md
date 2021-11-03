@@ -109,22 +109,7 @@ Para sumar estos numeros debemos igualar las potencias recorriendo el punto deci
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;4.6&space;\times&space;10^{-9}&space;\right&space;)&space;=&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;0.46&space;\times&space;10^{-8}&space;\right&space;)=&space;\left&space;(&space;6.06&space;\times&space;10^{-8}&space;\right&space;)" title="\bg_black \inline \left ( 5.6 \times 10^{-8} \right ) + \left ( 4.6 \times 10^{-9} \right ) = \left ( 5.6 \times 10^{-8} \right ) + \left ( 0.46 \times 10^{-8} \right )= \left ( 6.06 \times 10^{-8} \right )" />
 
  
-
-### 13. Exprese cada uno de los numeros siguientes en notacion de ingenieria:
-
-
-#### a) 89,000
-
-
-
-#### b) 450,000
-
-
-
-#### c) 12,040,000,000,000
-
-
-
+ 
  
  ### **15. Exprese los siguientes numeros en notacion de ingenieria:**
  
@@ -300,13 +285,39 @@ Usamos el codigo de colores para resistencias:
 
 ### **27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.**
 
-(a) 14.7 
+A) 14.7 
 
 
-(b) 39.2 
+B) 39.2 
 
 
-(c) 9.76 
+C) 9.76 
+
+
+
+### 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
+
+![image](https://user-images.githubusercontent.com/93361435/140196735-df35f7e3-8d4d-4cc7-9a48-8c986a3e9b94.png)
+
+Es el circuito B ya que como podemos observar esta formado por un interruptor de vía única-doble polo, por lo cual al presionar el interruptor se prenderan las dos lamparas.
+
+
+### 39.  En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
+
+![image](https://user-images.githubusercontent.com/93361435/140196800-e1655d0a-eda4-471a-a31f-0ef97520371e.png)
+
+Como vemos es un interruptor de vía y polo únicos por lo cual al estar en la posicion 1 V2 = VS y el V1 = 0. 
+
+De igual manera cuando este en la posicion 2 V1 = VS y V2 = 0 ya que al ser el tipo de interruptor SPST solo se va a distribuir corriente en una parte del circuito.
+
+### 45.  Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
+
+A) manecilla en 2, ajuste de intervalo en X10
+
+B) manecilla en 15, ajuste de intervalo en X100,000
+
+C) manecilla en 45, ajuste de intervalo en X100
+
 
 
 
