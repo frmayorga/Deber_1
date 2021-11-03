@@ -170,11 +170,11 @@ Recorremos el punto decimal hasta que la potencia este en una potencia multiplo 
 
 #### b) ![image](https://user-images.githubusercontent.com/93398718/140201192-a45a927b-70ff-4959-a778-971029c2eb9c.png)
 
-- Primero procedemos a dividir los numeros que acompañan a la potencia de diez:
+- Primero procedemos a dividir los numeros que acompañan a la potencia de diez:  
  ![image](https://user-images.githubusercontent.com/93398718/140212341-319f6184-c7b6-48a2-9c77-21d862c19c07.png)
 - luego restamos al exponente del numerador el exponente del denominador, de la siguiente manera:  
   3+6 = 9
-- a continuacion unimos ambos resultados y en este caso no es necesario recorrer espacios para expresar en notacion ingenieril, el resultado es el siguiente:
+- a continuacion unimos ambos resultados y en este caso no es necesario recorrer espacios para expresar en notacion ingenieril, el resultado es el siguiente:  
  ![image](https://user-images.githubusercontent.com/93398718/140214895-b58a2cb3-e72b-43e1-99c1-cb5f78cd62a9.png)
 
 
