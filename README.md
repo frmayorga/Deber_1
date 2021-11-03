@@ -312,13 +312,23 @@ De igual manera cuando este en la posicion 2 V1 = VS y V2 = 0 ya que al ser el t
 
 ### 45.  Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
 
+Solamente debemos multiplicar el valor de la manecilla por el ajuste del intervalo:
+
 A) manecilla en 2, ajuste de intervalo en X10
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;20\times&space;10&space;=&space;&space;20&space;\&space;\Omega&space;&space;" title="\bg_black 20\times 10 = 20 \ \Omega " />
+
+Obteniendo 20 ohmios
 
 B) manecilla en 15, ajuste de intervalo en X100,000
 
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;15\times&space;100000&space;=&space;1500000&space;\&space;\Omega&space;=&space;1.5&space;\&space;M\Omega&space;&space;" title="\bg_black 15\times 100000 = 1500000 \ \Omega = 1.5 \ M\Omega " />
+
+Obteniendo 1.5 megaohmios
+
 C) manecilla en 45, ajuste de intervalo en X100
 
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;45\times&space;100&space;=&space;4500&space;\&space;\Omega&space;=&space;4.5&space;\&space;k\Omega&space;&space;" title="\bg_black 45\times 100 = 4500 \ \Omega = 4.5 \ k\Omega " />
 
-
-
+Obteniendo 4.5 kilo-ohmios
 
