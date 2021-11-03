@@ -21,25 +21,19 @@
 
 
 
-
-
-
-
-
-
 **3. Exprese cada uno de los números siguientes en notación científica:** 
 
   *A) 8400*
 
-Recorremos el punto decimal hacia la izquierda 3 posiciones y usamos la notacion cientifica: 
+Recorremos el punto decimal hacia la izquierda 2 posiciones y usamos la notacion cientifica: 
 
-<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;8400&space;=&space;8.4&space;\times&space;10^{3}" title="\bg_black \inline 8400 = 8.4 \times 10^{3}" />
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;8400&space;=&space;84&space;\times&space;10^{2}" title="\bg_black \inline 8400 = 84 \times 10^{2}" />
 
   *B) 99000*
 
-Recorremos el punto decimal hacia la izquierda 4 posiciones y usamos la notacion cientifica: 
+Recorremos el punto decimal hacia la izquierda 3 posiciones y usamos la notacion cientifica: 
 
-<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;99000&space;=&space;9.9&space;\times&space;10^{4}" title="\bg_black \inline 99000 = 9.9 \times 10^{4}" />
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;99000&space;=&space;99&space;\times&space;10^{3}" title="\bg_black \inline 99000 = 99 \times 10^{3}" />
 
   *C) 0.2 x 10^6*
   
@@ -56,15 +50,26 @@ Recorremos el punto decimal hacia la izquierda 4 posiciones y usamos la notacion
   
   
  **9.  Sume los números siguientes:**
- 
-  <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;A)&space;(9.2&space;\times&space;10^{6})&plus;(3.4&space;\times&space;10^{7})" title="\bg_black \inline A) (9.2 \times 10^{6})+(3.4 \times 10^{7})" />
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_green&space;\inline&space;A)&space;\left&space;(&space;9.2&space;\times&space;10^{6}&space;\right&space;)&space;&plus;&space;\left&space;(&space;3.4&space;\times&space;10^{7}&space;\right&space;)" title="\bg_green \inline A) \left ( 9.2 \times 10^{6} \right ) + \left ( 3.4 \times 10^{7} \right )" />
   
    Para sumar estos numeros debemos igualar las potencias recorriendo el punto decimal, despues se suman las partes que no tienen potencia: 
   
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;(9.2&space;\times&space;10^{6})&plus;(3.4&space;\times&space;10^{7})&space;=(9.2&space;\times&space;10^{6})&plus;(34&space;\times&space;10^{6})&space;=(43.2&space;\times&space;10^{6})" title="\bg_black \inline (9.2 \times 10^{6})+(3.4 \times 10^{7}) =(9.2 \times 10^{6})+(34 \times 10^{6}) =(43.2 \times 10^{6})" />
-  
-  Por ultimo podemos simplificar el numero recorriendo el punto decimal: 
-  
-<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;(4.32&space;\times&space;10^{7})" title="\bg_black \inline (4.32 \times 10^{7})" />
+
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_green&space;\inline&space;B)&space;\left&space;(&space;5&space;\times&space;10^{-3}&space;\right&space;)&space;&plus;&space;\left&space;(&space;8.5&space;\times&space;10^{-1}&space;\right&space;)" title="\bg_green \inline B) \left ( 5 \times 10^{-3} \right ) + \left ( 8.5 \times 10^{-1} \right )" />
+
+Para sumar estos numeros debemos igualar las potencias recorriendo el punto decimal, despues se suman las partes que no tienen potencia: 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;5&space;\times&space;10^{3}&space;\right&space;)&space;&plus;&space;\left&space;(&space;8.5&space;\times&space;10^{-1}&space;\right&space;)&space;=&space;\left&space;(&space;5&space;\times&space;10^{3}&space;\right&space;)&space;&plus;&space;\left&space;(&space;0.00085&space;\times&space;10^{3}&space;\right&space;)&space;=&space;\left&space;(&space;5.00085&space;\times&space;10^{3}&space;\right&space;)&space;" title="\bg_black \inline \left ( 5 \times 10^{3} \right ) + \left ( 8.5 \times 10^{-1} \right ) = \left ( 5 \times 10^{3} \right ) + \left ( 0.00085 \times 10^{3} \right ) = \left ( 5.00085 \times 10^{3} \right ) " />
+
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_green&space;\inline&space;C)&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;4.6&space;\times&space;10^{-9}&space;\right&space;)" title="\bg_green \inline C) \left ( 5.6 \times 10^{-8} \right ) + \left ( 4.6 \times 10^{-9} \right )" />
+
+Para sumar estos numeros debemos igualar las potencias recorriendo el punto decimal, despues se suman las partes que no tienen potencia: 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;4.6&space;\times&space;10^{-9}&space;\right&space;)&space;=&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;0.46&space;\times&space;10^{-8}&space;\right&space;)=&space;\left&space;(&space;6.06&space;\times&space;10^{-8}&space;\right&space;)" title="\bg_black \inline \left ( 5.6 \times 10^{-8} \right ) + \left ( 4.6 \times 10^{-9} \right ) = \left ( 5.6 \times 10^{-8} \right ) + \left ( 0.46 \times 10^{-8} \right )= \left ( 6.06 \times 10^{-8} \right )" />
+
   
 
