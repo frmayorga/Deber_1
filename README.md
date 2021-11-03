@@ -64,11 +64,26 @@ Recorremos el punto decimal hacia la izquierda 3 posiciones y usamos la notacion
  <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;0.2&space;\times&space;10^{6}&space;=&space;2&space;\times&space;10^{5}" title="\bg_black \inline 0.2 \times 10^{6} = 2 \times 10^{5}" />
   
   
+### 7. Exprese cada uno de los numeros siguientes como un numero decimal regular:
+
+#### a) ![image](https://user-images.githubusercontent.com/93398718/140193305-aee12f90-ad9f-4b8a-a487-c91f51af170e.png)
+
+* procedemos a mover el punto decimal seis veces hacia la izquierda, entonces la expresion regular es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/140194234-d442adfd-91b5-42d7-8d8c-8dc776fc69b4.png)
+
+
+#### b) ![image](https://user-images.githubusercontent.com/93398718/140193493-2fecdda1-585d-47da-9edc-7fa278c4b61f.png)
+
+* en este caso procedemos a mover el punto decimal dos veces hacia la derecha, de esta manera su expresion regular es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/140194577-348ecf92-c5bf-4982-825f-6212d8c8e2ca.png)
+
+
+#### c) ![image](https://user-images.githubusercontent.com/93398718/140193663-9449d2db-e0dd-42c3-ad01-af0c8ba90bfc.png)
+
   
-  
-  
-  
-  
+* procedemos a mover el punto decimal una sola vez hacia la izquierda, de esta manera su expresion regular es la suiguiente:  
+![image](https://user-images.githubusercontent.com/93398718/140194886-28061c48-8c43-4d50-96ef-d1e9d8f2af3e.png)
+
   
   
 ### **9.  Sume los números siguientes:**
