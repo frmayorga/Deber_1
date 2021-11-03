@@ -156,4 +156,10 @@ y tenemos 10000 kilowatts
 ## CAPITULO 2
 
 
+*3) ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?*
 
+Realizamos la operacion a traves de la formula de carga, seguido dividimos los numeros en notacion cientifica recordando que se divide la parte real y las potencias de 10 se restan:
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;Q&space;=&space;\frac{N\&space;de&space;\&space;electrones}{6.25&space;\times&space;10^{18}}&space;=&space;\frac{50&space;\times&space;10^{31}}{6.25&space;\times&space;10^{18}}&space;=&space;8&space;\times&space;10^{13}&space;\&space;C" title="\bg_black \inline Q = \frac{N\ de \ electrones}{6.25 \times 10^{18}} = \frac{50 \times 10^{31}}{6.25 \times 10^{18}} = 8 \times 10^{13} \ C" />
+
+Obteniendo asi como resultado <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;8&space;\times&space;10^{13}&space;\&space;C" title="\bg_black \inline 8 \times 10^{13} \ C" /> coulumbs. 
