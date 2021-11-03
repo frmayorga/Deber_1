@@ -155,6 +155,40 @@ Recorremos el punto decimal hasta que la potencia este en una potencia multiplo 
 
 
 
+### 19.Divida los numeros siguientes y exprese cada resultado en notacion de ingenieria:
+
+
+#### a) ![image](https://user-images.githubusercontent.com/93398718/140200917-651473f3-d1d5-49a3-b296-9cfde096c2f5.png)
+
+- Primero procedemos a dividir los numeros que acompañan a la potencia de diez:  
+ ![image](https://user-images.githubusercontent.com/93398718/140205110-b4ce8e50-bf4b-48e7-bf59-dde166a18047.png)
+- luego restamos al exponente del numerador el exponente del denominador, de la siguiente manera:  
+  1-3 = -2
+- a continuacion unimos ambos resultados y recorremos un espacio a la derecha para expresar en notacion ingenieril, entonces el resultado es el siguiente:  
+ ![image](https://user-images.githubusercontent.com/93398718/140210124-5bf7b6e6-49fd-490d-9922-31bd81a31d70.png)
+
+
+#### b) ![image](https://user-images.githubusercontent.com/93398718/140201192-a45a927b-70ff-4959-a778-971029c2eb9c.png)
+
+- Primero procedemos a dividir los numeros que acompañan a la potencia de diez:
+ ![image](https://user-images.githubusercontent.com/93398718/140212341-319f6184-c7b6-48a2-9c77-21d862c19c07.png)
+- luego restamos al exponente del numerador el exponente del denominador, de la siguiente manera:  
+  3+6 = 9
+- a continuacion unimos ambos resultados y en este caso no es necesario recorrer espacios para expresar en notacion ingenieril, el resultado es el siguiente:
+ ![image](https://user-images.githubusercontent.com/93398718/140214895-b58a2cb3-e72b-43e1-99c1-cb5f78cd62a9.png)
+
+
+#### c) ![image](https://user-images.githubusercontent.com/93398718/140201340-711d9d07-c07f-495d-a232-c1f9e07c89fe.png)
+
+- Procedemos a dividir los numeros que acompañan a la potencia de diez:  
+ ![image](https://user-images.githubusercontent.com/93398718/140216485-6aae5cdb-6200-4a32-8171-b7a3485e90f0.png)
+- luego restamos al exponente del numerador el exponente del denominador, de la siguiente manera:    
+  3-3 = 0  
+- a continuacion unimos ambos resultados y recorremos tres espacios a la derecha para expresar en notacion ingenieril, entonces el resultado es el siguiente:  
+ ![image](https://user-images.githubusercontent.com/93398718/140219418-4c6f1654-5e7d-48b1-b839-67cec9b53168.png)
+ 
+
+
 ### **21.  Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
 Usamos la tabla de prefijos metricos, expresando los prefijos metricos de acuerdo a la potencia de 10 obtenida:
