@@ -71,5 +71,24 @@ Para sumar estos numeros debemos igualar las potencias recorriendo el punto deci
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;4.6&space;\times&space;10^{-9}&space;\right&space;)&space;=&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;0.46&space;\times&space;10^{-8}&space;\right&space;)=&space;\left&space;(&space;6.06&space;\times&space;10^{-8}&space;\right&space;)" title="\bg_black \inline \left ( 5.6 \times 10^{-8} \right ) + \left ( 4.6 \times 10^{-9} \right ) = \left ( 5.6 \times 10^{-8} \right ) + \left ( 0.46 \times 10^{-8} \right )= \left ( 6.06 \times 10^{-8} \right )" />
 
-  
-
+ 
+ 
+ **15. Exprese los siguientes numeros en notacion de ingenieria:**
+ 
+ A)  0.000345
+ 
+ Recorremos el punto decimal hasta que la potencia este en una potencia multiplo de 3: 
+ 
+ <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;345&space;\times&space;10^{-6}&space;\right&space;)" title="\bg_black \inline \left ( 345 \times 10^{-6} \right )" />
+ 
+ B) 0.025
+ 
+ Recorremos el punto decimal hasta que la potencia este en una potencia multiplo de 3: 
+ 
+ <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;25&space;\times&space;10^{-3}&space;\right&space;)" title="\bg_black \inline \left ( 25 \times 10^{-3} \right )" />
+ 
+ C) 0.00000000129
+ 
+Recorremos el punto decimal hasta que la potencia este en una potencia multiplo de 3: 
+ 
+ <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;1.29&space;\times&space;10^{-9}&space;\right&space;)" title="\bg_black \inline \left ( 1.29 \times 10^{-9} \right )" />
