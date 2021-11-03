@@ -211,6 +211,37 @@ La potencia de 10 a la -6 corresponde a el prefijo micro, por lo tanto tenemos 3
 
 La potencia de 10 a la -9 corresponde a el prefijo nano, por lo tanto tenemos 1.29 nanoamperios
 
+
+
+### 25.exprese cada cantidad convirtiendo el prefijo metrico en una potencia de diez:
+
+
+#### a) 7,5 pA
+
+- primero nos fijamos en que valor tiene pico(p) de modo que:  
+ ![image](https://user-images.githubusercontent.com/93398718/140227357-5a19ece8-3dd3-4c48-a5ee-9306e115f5cc.png)
+- de modo que la respuesta queda de la siguiente manera:   
+  ![image](https://user-images.githubusercontent.com/93398718/140228404-76e206fb-537f-4c09-80f7-07b98b7450e6.png)
+
+
+
+#### b) 3,3 GHz
+
+- primero nos fijamos en que valor tiene Giga(G) de modo que:  
+ ![image](https://user-images.githubusercontent.com/93398718/140230537-45b64517-3a6c-4bdb-9db6-0d8178e51cd8.png)
+- de modo que la respuesta queda de la siguiente manera:  
+ ![image](https://user-images.githubusercontent.com/93398718/140229921-18bd9ae8-99a3-4ee3-91f4-a4b86a98b67d.png)   
+
+
+#### c) 280 nW
+
+- primero nos fijamos en que valor tiene nano(n) de modo que:  
+ ![image](https://user-images.githubusercontent.com/93398718/140231134-c84e235a-0a6e-43d5-852c-d5ac77d1e4fc.png)
+- de modo que la respuesta queda de la siguiente manera:  
+ ![image](https://user-images.githubusercontent.com/93398718/140231247-2d0310a8-5e69-43de-aa47-be3b128ca17c.png)
+
+
+
 ### **27. Realice las conversiones indicadas**
 
 *A) 5 mA a microamperes*
