@@ -109,7 +109,22 @@ Para sumar estos numeros debemos igualar las potencias recorriendo el punto deci
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;4.6&space;\times&space;10^{-9}&space;\right&space;)&space;=&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;0.46&space;\times&space;10^{-8}&space;\right&space;)=&space;\left&space;(&space;6.06&space;\times&space;10^{-8}&space;\right&space;)" title="\bg_black \inline \left ( 5.6 \times 10^{-8} \right ) + \left ( 4.6 \times 10^{-9} \right ) = \left ( 5.6 \times 10^{-8} \right ) + \left ( 0.46 \times 10^{-8} \right )= \left ( 6.06 \times 10^{-8} \right )" />
 
  
- 
+
+### 13. Exprese cada uno de los numeros siguientes en notacion de ingenieria:
+
+
+#### a) 89,000
+
+
+
+#### b) 450,000
+
+
+
+#### c) 12,040,000,000,000
+
+
+
  
  ### **15. Exprese los siguientes numeros en notacion de ingenieria:**
  
