@@ -156,7 +156,7 @@ y tenemos 10000 kilowatts
 ## CAPITULO 2
 
 
-*3) ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?*
+### **3) ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?**
 
 Realizamos la operacion a traves de la formula de carga, seguido dividimos los numeros en notacion cientifica recordando que se divide la parte real y las potencias de 10 se restan:
 
@@ -167,7 +167,7 @@ Obteniendo asi como resultado <img src="https://latex.codecogs.com/png.image?\dp
 
 
 
-*9)  Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?*
+### **9)  Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
 Primero calculamos la carga, despejando Q de la formula de corriente: 
 
@@ -184,7 +184,7 @@ Teniendo 33.33 volts.
 
 
 
-*15) Determine la conductancia para cada uno de los siguientes valores de resistencia:*
+### **15) Determine la conductancia para cada uno de los siguientes valores de resistencia:**
 
 A) 5 ohmios
 
