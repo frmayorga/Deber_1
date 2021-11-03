@@ -178,3 +178,39 @@ Ahora calculamos el voltaje:
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;V&space;=&space;\frac{W}{Q}&space;=&space;\frac{1000}{30}&space;=&space;33.33&space;\&space;V" title="\bg_black \inline V = \frac{W}{Q} = \frac{1000}{30} = 33.33 \ V" />
 
 Teniendo 33.33 volts.
+
+
+
+
+
+
+*15) Determine la conductancia para cada uno de los siguientes valores de resistencia:*
+
+A) 5 ohmios
+
+Como sabemos el reciproco de la resistencia es la conductancia, por lo cual utilizamos la formula: 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;G&space;=&space;\frac{1}{R}&space;=&space;\frac{1}{5}&space;=&space;0.2&space;\&space;S" title="\bg_black G = \frac{1}{R} = \frac{1}{5} = 0.2 \ S" />
+
+Obteniendo 0.2 siemens. 
+
+B) 25 ohmios 
+
+Como sabemos el reciproco de la resistencia es la conductancia, por lo cual utilizamos la formula: 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;G&space;=&space;\frac{1}{R}&space;=&space;\frac{1}{25}&space;=&space;0.04&space;\&space;S" title="\bg_black G = \frac{1}{R} = \frac{1}{25} = 0.04 \ S" />
+
+Obteniendo 0.04 siemens
+
+C) 100 ohmios
+
+Como sabemos el reciproco de la resistencia es la conductancia, por lo cual utilizamos la formula: 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;G&space;=&space;\frac{1}{R}&space;=&space;\frac{1}{100}&space;=&space;0.01&space;\&space;S" title="\bg_black G = \frac{1}{R} = \frac{1}{100} = 0.01 \ S" />
+
+Obteniendo 0.01 siemens
+
+
+
+
+
