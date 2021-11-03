@@ -17,8 +17,30 @@
 
 ## CAPITULO 1:
 
+### 1. Exprese cada uno de los numeros siguientes en notacion cientifica
+
+  #### a) 3000
+  
+  - Recorremos el punto decimal 3 veces hacia la izquierda, luego, procedemos a expresar en notacion cientifica
+  de este modo la respuesta es la siguiente:   
+  
+  3000 = ![image](https://user-images.githubusercontent.com/93398718/140190392-1764bf61-135d-4831-851a-870293064d17.png)
 
 
+  #### b) 75,000
+  
+  - Recorremos el punto decimal 4 veces hacia la izquierda, luego, procedemos a expresar en notacion cientifica
+  de este modo la respuesta es la siguiente:
+  
+  75,000 = ![image](https://user-images.githubusercontent.com/93398718/140190938-798d7252-86ce-4d02-aeeb-cdd69f921949.png)
+
+  
+  #### c) 2,000,000
+  
+  - Recorremos el punto decimal 6 veces hacia la izquierda, luego, procedemos a expresar en notacion cientifica
+  de este modo la respuesta es la siguiente:
+  
+  2,000,000 = ![image](https://user-images.githubusercontent.com/93398718/140191415-d8969ed1-f0e6-4d3c-9e77-7d659d87cdbc.png)
 
 
 ### **3. Exprese cada uno de los números siguientes en notación científica:** 
