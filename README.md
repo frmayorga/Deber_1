@@ -246,3 +246,16 @@ Usamos el codigo de colores para resistencias:
 
 
 
+### **27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.**
+
+(a) 14.7 
+
+
+(b) 39.2 
+
+
+(c) 9.76 
+
+
+
+
