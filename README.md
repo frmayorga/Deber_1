@@ -21,7 +21,7 @@
 
 
 
-**3. Exprese cada uno de los números siguientes en notación científica:** 
+### **3. Exprese cada uno de los números siguientes en notación científica:** 
 
   *A) 8400*
 
@@ -49,7 +49,7 @@ Recorremos el punto decimal hacia la izquierda 3 posiciones y usamos la notacion
   
   
   
- **9.  Sume los números siguientes:**
+### **9.  Sume los números siguientes:**
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_green&space;\inline&space;A)&space;\left&space;(&space;9.2&space;\times&space;10^{6}&space;\right&space;)&space;&plus;&space;\left&space;(&space;3.4&space;\times&space;10^{7}&space;\right&space;)" title="\bg_green \inline A) \left ( 9.2 \times 10^{6} \right ) + \left ( 3.4 \times 10^{7} \right )" />
   
@@ -74,21 +74,21 @@ Para sumar estos numeros debemos igualar las potencias recorriendo el punto deci
  
  
  
- **15. Exprese los siguientes numeros en notacion de ingenieria:**
+ ### **15. Exprese los siguientes numeros en notacion de ingenieria:**
  
- A)  0.000345
+ *A)  0.000345*
  
  Recorremos el punto decimal hasta que la potencia este en una potencia multiplo de 3: 
  
  <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;345&space;\times&space;10^{-6}&space;\right&space;)" title="\bg_black \inline \left ( 345 \times 10^{-6} \right )" />
  
- B) 0.025
+ *B) 0.025*
  
  Recorremos el punto decimal hasta que la potencia este en una potencia multiplo de 3: 
  
  <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;25&space;\times&space;10^{-3}&space;\right&space;)" title="\bg_black \inline \left ( 25 \times 10^{-3} \right )" />
  
- C) 0.00000000129
+ *C) 0.00000000129*
  
 Recorremos el punto decimal hasta que la potencia este en una potencia multiplo de 3: 
  
@@ -96,24 +96,64 @@ Recorremos el punto decimal hasta que la potencia este en una potencia multiplo 
 
 
 
-**21.  Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.***
+### **21.  Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
 Usamos la tabla de prefijos metricos, expresando los prefijos metricos de acuerdo a la potencia de 10 obtenida:
 
-A)  0.000345
+*A)  0.000345*
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;345&space;\times&space;10^{-6}&space;=&space;345&space;\&space;\mu&space;A" title="\bg_black \inline 345 \times 10^{-6} = 345 \ \mu A" />
 
 La potencia de 10 a la -6 corresponde a el prefijo micro, por lo tanto tenemos 345 microamperios
 
- B) 0.025
+ *B) 0.025*
  
  <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;25&space;\times&space;10^{-3}&space;=&space;25&space;\&space;mA" title="\bg_black \inline 25 \times 10^{-3} = 25 \ mA" />
  
  La potencia de 10 a la -3 corresponde a el prefijo mili, por lo tanto tenemos 25 miliamperios
  
- C) 0.00000000129
+ *C) 0.00000000129*
  
  <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;1.29&space;\times&space;10^{-9}&space;=&space;1.29&space;\&space;nA" title="\bg_black \inline 1.29 \times 10^{-9} = 1.29 \ nA" />
 
 La potencia de 10 a la -9 corresponde a el prefijo nano, por lo tanto tenemos 1.29 nanoamperios
+
+### **27. Realice las conversiones indicadas**
+
+*A) 5 mA a microamperes*
+
+Recorremos el punto decimal a la derecha hasta que la potencia de 10 sea -6:
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;5&space;\times&space;10^{-3}&space;=&space;5000&space;\times&space;10^{-6}&space;=&space;5000&space;\&space;\mu&space;A&space;" title="\bg_black \inline 5 \times 10^{-3} = 5000 \times 10^{-6} = 5000 \ \mu A " />
+
+y tenemos 5000 microamperes
+
+*B) 3200 microwatts a miliwatts* 
+
+Recorremos el punto decimal a la izquierda hasta que la potencia de 10 sea -3:
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;3200&space;\times&space;10^{-6}&space;=&space;3.2&space;\times&space;10^{-3}&space;=&space;3.2&space;\&space;mW&space;" title="\bg_black \inline 3200 \times 10^{-6} = 3.2 \times 10^{-3} = 3.2 \ mW " />
+
+y tenemos 3.2 miliwatts
+
+*C) 5000 kV a megavolts* 
+
+Recorremos el punto decimal a la izquierda hasta que la potencia de 10 sea 6:
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;5000&space;\times&space;10^{3}&space;=&space;5&space;\times&space;10^{6}&space;=&space;5&space;\&space;MV&space;" title="\bg_black \inline 5000 \times 10^{3} = 5 \times 10^{6} = 5 \ MV " />
+
+y tenemos 5 megavolts
+
+*D) 10 MW a kilowatts* 
+
+Recorremos el punto decimal a la derecha hasta que la potencia de 10 sea 3:
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;10&space;\times&space;10^{6}&space;=&space;10000&space;\times&space;10^{3}&space;=&space;10000&space;\&space;kW&space;" title="\bg_black \inline 10 \times 10^{6} = 10000 \times 10^{3} = 10000 \ kW " />
+
+y tenemos 10000 kilowatts
+
+
+## CAPITULO 2
+
+
+
