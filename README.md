@@ -6,6 +6,9 @@
 
 ![](https://github.com/frmayorga/Deber_1/blob/main/resumen%20c1.jpg)
 
+# Resumen capitulo 2 (parte 1):
+
+![Sin Título 1](https://user-images.githubusercontent.com/93361435/139999676-391e158d-2f36-494b-a837-c43c6f13df53.jpg)
 
 
 # EJERCICIOS IMPARES 
