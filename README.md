@@ -163,3 +163,18 @@ Realizamos la operacion a traves de la formula de carga, seguido dividimos los n
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;Q&space;=&space;\frac{N\&space;de&space;\&space;electrones}{6.25&space;\times&space;10^{18}}&space;=&space;\frac{50&space;\times&space;10^{31}}{6.25&space;\times&space;10^{18}}&space;=&space;8&space;\times&space;10^{13}&space;\&space;C" title="\bg_black \inline Q = \frac{N\ de \ electrones}{6.25 \times 10^{18}} = \frac{50 \times 10^{31}}{6.25 \times 10^{18}} = 8 \times 10^{13} \ C" />
 
 Obteniendo asi como resultado <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;8&space;\times&space;10^{13}&space;\&space;C" title="\bg_black \inline 8 \times 10^{13} \ C" /> coulumbs. 
+
+
+
+
+*9)  Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?*
+
+Primero calculamos la carga, despejando Q de la formula de corriente: 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;Q&space;=&space;I\times&space;t=&space;2\times&space;15&space;=&space;30&space;\&space;columbs" title="\bg_black \inline Q = I\times t= 2\times 15 = 30 \ columbs" />
+
+Ahora calculamos el voltaje: 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;V&space;=&space;\frac{W}{Q}&space;=&space;\frac{1000}{30}&space;=&space;33.33&space;\&space;V" title="\bg_black \inline V = \frac{W}{Q} = \frac{1000}{30} = 33.33 \ V" />
+
+Teniendo 33.33 volts.
