@@ -73,6 +73,7 @@ Para sumar estos numeros debemos igualar las potencias recorriendo el punto deci
 
  
  
+ 
  **15. Exprese los siguientes numeros en notacion de ingenieria:**
  
  A)  0.000345
@@ -92,3 +93,27 @@ Para sumar estos numeros debemos igualar las potencias recorriendo el punto deci
 Recorremos el punto decimal hasta que la potencia este en una potencia multiplo de 3: 
  
  <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;1.29&space;\times&space;10^{-9}&space;\right&space;)" title="\bg_black \inline \left ( 1.29 \times 10^{-9} \right )" />
+
+
+
+**21.  Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.***
+
+Usamos la tabla de prefijos metricos, expresando los prefijos metricos de acuerdo a la potencia de 10 obtenida:
+
+A)  0.000345
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;345&space;\times&space;10^{-6}&space;=&space;345&space;\&space;\mu&space;A" title="\bg_black \inline 345 \times 10^{-6} = 345 \ \mu A" />
+
+La potencia de 10 a la -6 corresponde a el prefijo micro, por lo tanto tenemos 345 microamperios
+
+ B) 0.025
+ 
+ <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;25&space;\times&space;10^{-3}&space;=&space;25&space;\&space;mA" title="\bg_black \inline 25 \times 10^{-3} = 25 \ mA" />
+ 
+ La potencia de 10 a la -3 corresponde a el prefijo mili, por lo tanto tenemos 25 miliamperios
+ 
+ C) 0.00000000129
+ 
+ <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;1.29&space;\times&space;10^{-9}&space;=&space;1.29&space;\&space;nA" title="\bg_black \inline 1.29 \times 10^{-9} = 1.29 \ nA" />
+
+La potencia de 10 a la -9 corresponde a el prefijo nano, por lo tanto tenemos 1.29 nanoamperios
