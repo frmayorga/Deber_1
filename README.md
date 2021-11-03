@@ -8,7 +8,9 @@
 
 # Resumen capitulo 2 (parte 1):
 
-![Sin Título 1](https://user-images.githubusercontent.com/93361435/139999676-391e158d-2f36-494b-a837-c43c6f13df53.jpg)
+
+![resumen cap2-parte1-1](https://user-images.githubusercontent.com/93361435/140005437-51cf33dd-e427-4ebf-a475-ef32da7612bb.jpg)
+![resumen cap2-parte1-2](https://user-images.githubusercontent.com/93361435/140005442-09ee777e-050f-4438-adda-2427d95e7245.jpg)
 
 
 # EJERCICIOS IMPARES 
