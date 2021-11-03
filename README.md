@@ -109,7 +109,29 @@ Para sumar estos numeros debemos igualar las potencias recorriendo el punto deci
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;4.6&space;\times&space;10^{-9}&space;\right&space;)&space;=&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;0.46&space;\times&space;10^{-8}&space;\right&space;)=&space;\left&space;(&space;6.06&space;\times&space;10^{-8}&space;\right&space;)" title="\bg_black \inline \left ( 5.6 \times 10^{-8} \right ) + \left ( 4.6 \times 10^{-9} \right ) = \left ( 5.6 \times 10^{-8} \right ) + \left ( 0.46 \times 10^{-8} \right )= \left ( 6.06 \times 10^{-8} \right )" />
 
  
- 
+
+### 13. Exprese cada uno de los numeros siguientes en notacion de ingenieria:
+
+
+#### a) 89,000
+
+* como se nos pide expresar la cantidad en notacion de ingenieria la potencia de diez debe estar elevada a un multiplo de 3, sabiendo esto solo recorremos el punto decimal tres espacios a la izquierda, entonces la respuesta es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/140198758-a6ad6630-f6a9-4676-a326-bb780a911fe3.png)
+
+
+#### b) 450,000
+
+* al igual que el caso anterior expresamos la potencia de diez con un multiplo de tres, de esta manera movemos el punto decimal tres espacios a la izquierda, entonces la respuesta es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/140199316-6a15bca0-7076-4000-9c74-75a2bda7b9d1.png)
+
+
+
+#### c) 12,040,000,000,000
+
+* como se nos pide expresar la cantidad en notacion de ingenieria la potencia de diez debe estar elevada a un multiplo de 3, sabiendo esto solo recorremos el punto decimal doce espacios a la izquierda, entonces la respuesta es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/140199558-11cf6a04-5e5f-4704-8d46-b0e96a4ff3ff.png)
+
+
  
  ### **15. Exprese los siguientes numeros en notacion de ingenieria:**
  
@@ -285,50 +307,14 @@ Usamos el codigo de colores para resistencias:
 
 ### **27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.**
 
-A) 14.7 
+(a) 14.7 
 
 
-B) 39.2 
+(b) 39.2 
 
 
-C) 9.76 
+(c) 9.76 
 
 
 
-### 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
-
-![image](https://user-images.githubusercontent.com/93361435/140196735-df35f7e3-8d4d-4cc7-9a48-8c986a3e9b94.png)
-
-Es el circuito B ya que como podemos observar esta formado por un interruptor de vía única-doble polo, por lo cual al presionar el interruptor se prenderan las dos lamparas.
-
-
-### 39.  En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
-
-![image](https://user-images.githubusercontent.com/93361435/140196800-e1655d0a-eda4-471a-a31f-0ef97520371e.png)
-
-Como vemos es un interruptor de vía y polo únicos por lo cual al estar en la posicion 1 V2 = VS y el V1 = 0. 
-
-De igual manera cuando este en la posicion 2 V1 = VS y V2 = 0 ya que al ser el tipo de interruptor SPST solo se va a distribuir corriente en una parte del circuito.
-
-### 45.  Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
-
-Solamente debemos multiplicar el valor de la manecilla por el ajuste del intervalo:
-
-A) manecilla en 2, ajuste de intervalo en X10
-
-<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;20\times&space;10&space;=&space;&space;20&space;\&space;\Omega&space;&space;" title="\bg_black 20\times 10 = 20 \ \Omega " />
-
-Obteniendo 20 ohmios
-
-B) manecilla en 15, ajuste de intervalo en X100,000
-
-<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;15\times&space;100000&space;=&space;1500000&space;\&space;\Omega&space;=&space;1.5&space;\&space;M\Omega&space;&space;" title="\bg_black 15\times 100000 = 1500000 \ \Omega = 1.5 \ M\Omega " />
-
-Obteniendo 1.5 megaohmios
-
-C) manecilla en 45, ajuste de intervalo en X100
-
-<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;45\times&space;100&space;=&space;4500&space;\&space;\Omega&space;=&space;4.5&space;\&space;k\Omega&space;&space;" title="\bg_black 45\times 100 = 4500 \ \Omega = 4.5 \ k\Omega " />
-
-Obteniendo 4.5 kilo-ohmios
 
