@@ -358,7 +358,9 @@ Como sabemos el reciproco de la resistencia es la conductancia, por lo cual util
 Obteniendo 0.01 siemens
 
 
+### 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 
+- la caracteristica principal de la fuentes de voltaje de potencia y por la cual se diferencian de otro tipo de fuentes esque al momento de conectarlas al pasa corriente de la pared tranforman la corriente ca en corriente cd.
 
 ### **21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas**
 
