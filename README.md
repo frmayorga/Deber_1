@@ -282,7 +282,7 @@ y tenemos 10000 kilowatts
 
 ### 1. ¿cual es la carga en coulombs del nucleo de un atomo de cobre?
 
-- puesto que un atomo de cobre posee 29 electrones y protones usamos este dato en la siguiente ecuacion: \\ 
+- puesto que un atomo de cobre posee 29 electrones y protones usamos este dato en la siguiente ecuacion: 
  ![image](https://user-images.githubusercontent.com/93398718/140243498-a933a3e0-bd39-4ac9-baa4-0f91ad5566bd.png)
 - ahora reemplazamos la informacion conocida, de modo que el resultado es el siguiente:  
  ![image](https://user-images.githubusercontent.com/93398718/140244124-d764d8c6-d600-4f31-ba25-9996041b62fa.png)
@@ -298,6 +298,14 @@ Obteniendo asi como resultado <img src="https://latex.codecogs.com/png.image?\dp
 
 
 
+### 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+
+- primero procedemos a tomar los datos:   
+ w = 800 J       Q = 40 C       V = ?
+- una vez que conocemos los datos aplicamos la formula del voltaje de modo que la respuesta es la siguiente:  
+ ![image](https://user-images.githubusercontent.com/93398718/140256389-bc618037-6c56-49f0-9ffe-0d7e8a19543e.png)
+ 
+ 
 
 ### **9.  Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
