@@ -423,13 +423,112 @@ R = verde, cafe, verde y oro.
 
 ### **27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.**
 
-(a) 14.7 
+*(a) 14.7 KILO-OHMIOS*
+
+PRIMERA BANDA: 1.er digito = CAFÉ
+
+SEGUNDA BANDA: 2.do digito = AMARILLO
+
+TERCER BANDA: 3.er digito = VIOLETA
+
+CUARTA BANDA: 14700 = n de ceros = ROJO
+
+QUINTA BANDA: Tolerancia 1% = CAFÉ
 
 
-(b) 39.2 
+*(b) 39.2 OHMIOS*
+
+PRIMERA BANDA: 1.er digito = NARANJA
+
+SEGUNDA BANDA: 2.do digito = BLANCO
+
+TERCER BANDA: 3.er digito = ROJO
+
+CUARTA BANDA: 39.2 = se recorrio una vez la coma = ORO
+
+QUINTA BANDA: Tolerancia 1% = CAFÉ
+
+*(c) 9.76 KILO-OHMIOS*
+
+PRIMERA BANDA: 1.er digito = BLANCO
+
+SEGUNDA BANDA: 2.do digito = VIOLETA
+
+TERCER BANDA: 3.er digito = AZUL
+
+CUARTA BANDA: 9760 = n de ceros = CAFÉ
+
+QUINTA BANDA: Tolerancia 1% = CAFÉ
 
 
-(c) 9.76 
+
+
+
+
+
+### **33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.**
+
+![image](https://user-images.githubusercontent.com/93361435/140431194-1bb15407-93b3-4d46-84ea-030aabe4bcc0.png)
+
+El **CIRCUITO B** ya que como podemos observar existe un interruptor vía única-doble polo (DPST) el cual al accionar el interrumptor se prenden las dos laparas y los dos brazos cierran el circuito
+
+
+
+
+
+
+### **39.  En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?**
+
+![image](https://user-images.githubusercontent.com/93361435/140431269-d4d869a4-29b1-401c-bbf6-bdeaf845b545.png)
+
+Al posicionar el interruptor en la posicion 1 tenemos que V2 = VS  y V1 = 0, de igual manera la posicionar en 2 V1 = VS Y V2 = 0, ya que al ser un interrumptor de una sola via solamente accionara parte del circuito.
+
+
+
+
+### 45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:**
+
+Solamente multiplicamos el valor de la manecilla por el ajuste de intervalo
+
+(a) manecilla en 2, ajuste de intervalo en X10
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;2\times&space;10&space;=&space;20&space;\&space;\Omega&space;" title="\bg_black \inline 2\times 10 = 20 \ \Omega " />
+
+Obteniendo 20 ohmios 
+
+(b) manecilla en 15, ajuste de intervalo en X100,000
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;15\times&space;100000&space;=&space;1500000&space;\&space;\Omega&space;=&space;&space;1.5&space;\&space;M&space;\Omega&space;" title="\bg_black \inline 15\times 100000 = 1500000 \ \Omega = 1.5 \ M \Omega " />
+
+Obteniendo 1.5 Mega ohmios
+
+(c) manecilla en 45, ajuste de intervalo en X100
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;45\times&space;100&space;=&space;4500&space;\&space;\Omega&space;=&space;&space;4.5&space;\&space;k&space;\Omega&space;" title="\bg_black \inline 45\times 100 = 4500 \ \Omega = 4.5 \ k \Omega " />
+
+Obteniendo 4.5 kilo-ohmios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
