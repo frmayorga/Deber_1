@@ -280,6 +280,14 @@ y tenemos 10000 kilowatts
 ## CAPITULO 2
 
 
+### 1. ¿cual es la carga en coulombs del nucleo de un atomo de cobre?
+
+- puesto que un atomo de cobre posee 29 electrones y protones usamos este dato en la siguiente ecuacion: \\ 
+ ![image](https://user-images.githubusercontent.com/93398718/140243498-a933a3e0-bd39-4ac9-baa4-0f91ad5566bd.png)
+- ahora reemplazamos la informacion conocida, de modo que el resultado es el siguiente:  
+ ![image](https://user-images.githubusercontent.com/93398718/140244124-d764d8c6-d600-4f31-ba25-9996041b62fa.png)
+
+
 ### **3.¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?**
 
 Realizamos la operacion a traves de la formula de carga, seguido dividimos los numeros en notacion cientifica recordando que se divide la parte real y las potencias de 10 se restan:
