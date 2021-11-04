@@ -301,7 +301,7 @@ Obteniendo asi como resultado <img src="https://latex.codecogs.com/png.image?\dp
 ### 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
 
 - primero procedemos a tomar los datos:   
- w = 800 J       Q = 40 C       V = ?
+ w = 800 J    ,   Q = 40 C    ,   V = ?
 - una vez que conocemos los datos aplicamos la formula del voltaje de modo que la respuesta es la siguiente:  
  ![image](https://user-images.githubusercontent.com/93398718/140256389-bc618037-6c56-49f0-9ffe-0d7e8a19543e.png)
  
@@ -321,7 +321,14 @@ Teniendo 33.33 volts.
 
 
 
+### 13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
 
+
+- primero procedemos a tomar los datos que nos entregran:  
+I = 1,5 A    ,     t = 0,1 s   ,     Q = ?
+- de este modo procedemos a usar la ecuacion de la corriente electrica, logrando asi que la respuesta sea la siguiente:
+ ![image](https://user-images.githubusercontent.com/93398718/140257483-8065f38d-a31a-4e65-9d49-386c00b4f097.png)
+ 
 
 
 ### **15. Determine la conductancia para cada uno de los siguientes valores de resistencia:**
