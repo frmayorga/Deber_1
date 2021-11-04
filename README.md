@@ -394,6 +394,32 @@ Usamos el codigo de colores para resistencias:
 
 
 
+### 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+
+
+#### a) ![image](https://user-images.githubusercontent.com/93398718/140410499-694db766-162f-40a5-865d-174c1be87a4d.png)
+
+- como el primer numero despues del punto decimal es 4 el color de la primera banda es amarillo, luego el valor del segundo dijito es 7 por este motivo la segunda banda es de color violeta, y para finalizar sabemos que si el multiplicador es 0,01 el color de la tercera banda es plata, ademas se nos dice que la tolerancia es del 5% por este motivo a la cuarta banda le correponde el color oro, de este modo la respuesta es la siguiente:  
+ R = amarillo, violeta, plata, oro
+
+
+#### b) ![image](https://user-images.githubusercontent.com/93398718/140410631-3524a6a1-ad17-430d-8cb1-2495158423f9.png)
+
+- primero procedemos a reemplazar el prefijo para conocer la cantidad de ohms:  
+ ![image](https://user-images.githubusercontent.com/93398718/140412857-328deb68-3eda-4bcb-a829-36600ce32b29.png)
+-  como el primer dijito es 2 la primera banda debe ser de color rojo, y como el segundo digito es 7 el color debe ser violeta, puesto que seguido de la segunda banda hay 4 ceros la tercera banda es de color amarillo. en el inicio de elejrcicio se nos indica que existe una tolerancia del 5% por este motivo la cuarta banda es de color oro, de esta manera la respuesta es:  
+ R = rojo, violeta, amarillo, oro
+ 
+
+
+#### c) ![image](https://user-images.githubusercontent.com/93398718/140410725-df480c90-8c18-41ab-bd13-53e84ab846eb.png)
+
+- primero procedemos a reemplazar el prefijo para conocer la cantidad de ohms:  
+ ![image](https://user-images.githubusercontent.com/93398718/140411442-8e78c591-5df0-4c67-817f-e61d2b28ea4d.png)
+- ahora nos fijamos en los dos promeros dijitos y el tercer dijito es el numero de ceros que va seguido de estos digitos, de este modo la respuesta es la siguiente:
+- como el primer dijito es 5 la primera banda debe ser de color verde, y como el segundo digito es 1 el color debe ser cafe, puesto que seguido de la segunda banda hay 5 ceros la tercera banda es de color verde. en el inicio de elejrcicio se nos indica que existe una tolerancia del 5% por este motivo la cuarta banda es de color oro, de esta manera la respuesta es:  
+R = verde, cafe, verde y oro.
+
 
 ### **27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.**
 
