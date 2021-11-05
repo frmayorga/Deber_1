@@ -478,7 +478,17 @@ El **CIRCUITO B** ya que como podemos observar existe un interruptor vía única
 
 
 
+### 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.    
+![image](https://user-images.githubusercontent.com/93398718/140439555-d9b4cee4-1e0f-4528-8d3f-09983332b621.png)
 
+- primero hay que cortar el circuito en la trayectoria de la corriente en la seccion que se muesta aconticuacion:    
+ ![image](https://user-images.githubusercontent.com/93398718/140440244-d739e51a-5812-4c2f-b53d-430466df59fb.png)
+
+- a continuacion, se conecta el amperimetro en la siguiente manera y de esta forma se mide la corriente:  
+ ![image](https://user-images.githubusercontent.com/93398718/140440484-7b58033e-07c5-4002-b3f2-cf0c469e2f10.png)  
+ 
+- Para medir voltaje, el voltímetro se conecta a través del componente para el cual el voltaje ha de ser medido. Tal conexión es una conexión en paralelo. La terminal negativa del medidor al lado negativo del circuito, y la terminal positiva se conecta al lado positivo del circuito.  
+![image](https://user-images.githubusercontent.com/93398718/140441064-aaa21b81-f76c-469b-930c-bc992bee5901.png)
 
 
 ### **39.  En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?**
