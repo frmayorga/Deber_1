@@ -2,6 +2,14 @@
 
 **INTEGRANTES:** Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 
+
+# OBJETIVOS
+
+
+
+
+# MARCO TEORICO
+
 # Resumen capitulo 1:
 
 ![](https://github.com/frmayorga/Deber_1/blob/main/resumen%20c1.jpg)
@@ -12,6 +20,8 @@
 ![resumen cap2-parte1-1](https://user-images.githubusercontent.com/93361435/140005437-51cf33dd-e427-4ebf-a475-ef32da7612bb.jpg)
 ![resumen cap2-parte1-2](https://user-images.githubusercontent.com/93361435/140005442-09ee777e-050f-4438-adda-2427d95e7245.jpg)
 
+
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 # EJERCICIOS IMPARES 
 
@@ -527,9 +537,16 @@ Obteniendo 1.5 Mega ohmios
 Obteniendo 4.5 kilo-ohmios
 
 
+# VIDEO
+
+
+# CONCLUSIONES 
 
 
 
+# BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
 
 
 
