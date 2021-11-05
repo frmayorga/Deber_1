@@ -498,6 +498,10 @@ El **CIRCUITO B** ya que como podemos observar existe un interruptor vía única
 Al posicionar el interruptor en la posicion 1 tenemos que V2 = VS  y V1 = 0, de igual manera la posicionar en 2 V1 = VS Y V2 = 0, ya que al ser un interrumptor de una sola via solamente accionara parte del circuito.
 
 
+### 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?  
+![image](https://user-images.githubusercontent.com/93398718/140441367-941b1475-722f-459a-88ca-6f962b824e6a.png)  
+- el voltaje medido por el multimetro analogico es de 250v
+
 
 
 ### 45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:**
