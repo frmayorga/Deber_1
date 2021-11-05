@@ -462,6 +462,10 @@ QUINTA BANDA: Tolerancia 1% = CAFÉ
 
 
 
+### 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.  
+![image](https://user-images.githubusercontent.com/93398718/140438618-7e4603c6-bf42-438d-b476-411b74db4ac8.png)
+- para la resolucion de este ejercicio solo debemos guiarnos de la conexion del circuito de este modo la respuesta es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/140438714-3681e99b-231b-4c49-9807-a8077547d109.png)
 
 
 
