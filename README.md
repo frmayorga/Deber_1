@@ -5,7 +5,11 @@
 
 # OBJETIVOS
 
+## OBJETIVO GENERAL
 
+Realizar los ejercicios propuestos en la guía a través de la investigación respectiva usando materiales bibliográficos con el fin de reforzar y adquirir conocimientos aplicables en la materia.
+
+## OBJETIVOS ESPECIFICOS
 
 
 # MARCO TEORICO
@@ -542,7 +546,9 @@ Obteniendo 4.5 kilo-ohmios
 
 # CONCLUSIONES 
 
+1)
 
+2) Es importante reconocer la estructura atomica ya que esta nos lleva a reconocer y entender los conceptos aplicables en circuitos electricos, tales conceptos como voltaje, carga electrica, corriente, resistencia. Siendo la carga electrica una propiedad electrica de la materia la cual nos indica el exceso o deficiencia de electrones, el voltaje la energia que necesita una carga para moverse, la corriente es la velocidad con la que se mueven las cargas y la resistencia es la oposicion a la corriente.
 
 # BIBLIOGRAFÍA
 
