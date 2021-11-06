@@ -7,7 +7,7 @@
 
 ## OBJETIVO GENERAL
 
-Realizar los ejercicios propuestos en la guía a través de la investigación respectiva usando materiales bibliográficos con el fin de reforzar y adquirir conocimientos aplicables en la materia.
+Realizar los ejercicios propuestos en la guía a través de la investigación respectiva usando el libro PRINCIPIOS DE CIRCUITOS ELECTRICOS DE FLOYD y materiales bibliográficos adicionales con el fin de entender y aplicar conceptos basicos, ademas poder reforzar los conocimientos adquiridos en clase.
 
 ## OBJETIVOS ESPECIFICOS
 
