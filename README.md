@@ -7,10 +7,11 @@
 
 ## OBJETIVO GENERAL
 
-Realizar los ejercicios propuestos en la guía a través de la investigación respectiva usando el libro PRINCIPIOS DE CIRCUITOS ELECTRICOS DE FLOYD y materiales bibliográficos adicionales con el fin de entender y aplicar conceptos basicos, ademas poder reforzar los conocimientos adquiridos en clase.
+Realizar los ejercicios propuestos en la guía a través de la investigación respectiva usando el libro PRINCIPIOS DE CIRCUITOS ELECTRICOS DE FLOYD y materiales bibliográficos adicionales con el fin de entender y aplicar conceptos basicos como lo son la notacion cientifica, los prefijos y la aplicasion de la corriente el voltaje y la recistencia en un circuito, asi como tambien la forma de medirlos mediante el uso de un multimetro, ademas de poder reforzar los conocimientos adquiridos en clase.
 
 ## OBJETIVOS ESPECIFICOS
-
+- manipular la notacion cientifica y la notacion de ingenieria, asi como tambien, realizar operaciones con esta notacion.
+- reconocer la importancia de la corriente, voltaje y recistencia para efectuar operaciones con estos conocimientos y aplicarlos en diversos circuitos.
 
 # MARCO TEORICO
 
@@ -546,7 +547,7 @@ Obteniendo 4.5 kilo-ohmios
 
 # CONCLUSIONES 
 
-1)
+1) la aplicacion de la notacion cientifica es muy importante sin importar el nivel en el que nos encontremos pues con ella llegamos al uso de los sufijos y por ende la simplificacion de resultados, ademas pudimos comprender que es necesario aprender a realizar operaciones con la notacion cientifica para tener una mayor velocidad en la resolucion de ejercicios, de este modo tambien podemos verificar que los resultados obtenidos en calculadora son correctos. 
 
 2) Es importante reconocer la estructura atomica ya que esta nos lleva a reconocer y entender los conceptos aplicables en circuitos electricos, tales conceptos como voltaje, carga electrica, corriente, resistencia. Siendo la carga electrica una propiedad electrica de la materia la cual nos indica el exceso o deficiencia de electrones, el voltaje la energia que necesita una carga para moverse, la corriente es la velocidad con la que se mueven las cargas y la resistencia es la oposicion a la corriente.
 
