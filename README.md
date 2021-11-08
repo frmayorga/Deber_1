@@ -25,6 +25,11 @@ Realizar los ejercicios propuestos en la guía a través de la investigación re
 ![resumen cap2-parte1-1](https://user-images.githubusercontent.com/93361435/140005437-51cf33dd-e427-4ebf-a475-ef32da7612bb.jpg)
 ![resumen cap2-parte1-2](https://user-images.githubusercontent.com/93361435/140005442-09ee777e-050f-4438-adda-2427d95e7245.jpg)
 
+# Resumen capitulo 2(parete 2):
+
+![MAPA 1](https://user-images.githubusercontent.com/93561706/140762207-36375cdf-bd0c-4363-b086-8b82d6a50408.jpeg)
+![Voltaje , Corriente y Resistencia](https://user-images.githubusercontent.com/93561706/140762225-2027c803-7864-42ca-865f-5f712d864855.jpeg)
+
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
