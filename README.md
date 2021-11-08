@@ -83,6 +83,11 @@ Recorremos el punto decimal hacia la izquierda 3 posiciones y usamos la notacion
   
  <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;0.2&space;\times&space;10^{6}&space;=&space;2&space;\times&space;10^{5}" title="\bg_black \inline 0.2 \times 10^{6} = 2 \times 10^{5}" />
   
+ ### 5. Exprese cada uno de los números siguientes en notación científica:
+ 
+  ![image](https://user-images.githubusercontent.com/93561706/140832504-e02f18b8-4a58-4172-8a87-1b24d00daee0.png)
+  
+  *para colocar los numeros en notacion cientifica debemos tener en cuenta de el numero que multiplica al 10 debe estar dentro del intervalo de 1<=x<=10, y para poder haces esto debemos dividir para 10 las veces que sean necesarias y para que no se altere la ecuacion de debe multilicar por 10 teniendo en cuenta que la multiplicacion de bases iguales se copian las bases y se suman los exponentes. 
   
 ### 7. Exprese cada uno de los numeros siguientes como un numero decimal regular:
 
