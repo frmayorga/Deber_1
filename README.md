@@ -85,9 +85,9 @@ Recorremos el punto decimal hacia la izquierda 3 posiciones y usamos la notacion
   
  ### 5. Exprese cada uno de los números siguientes en notación científica:
  
-  ![image](https://user-images.githubusercontent.com/93561706/140832504-e02f18b8-4a58-4172-8a87-1b24d00daee0.png)
+  ![image](https://user-images.githubusercontent.com/93561706/140838794-a809671c-7010-4339-9158-ab8fb095efb6.png)
   
-  *para colocar los numeros en notacion cientifica debemos tener en cuenta de el numero que multiplica al 10 debe estar dentro del intervalo de 1<=x<=10, y para poder haces esto debemos dividir para 10 las veces que sean necesarias y para que no se altere la ecuacion de debe multilicar por 10 teniendo en cuenta que la multiplicacion de bases iguales se copian las bases y se suman los exponentes. 
+  * para colocar los numeros en notacion cientifica debemos tener en cuenta de el numero que multiplica al 10 debe estar dentro del intervalo de 1<=x<=10, y para poder haces esto debemos dividir para 10 las veces que sean necesarias y para que no se altere la ecuacion de debe multilicar por 10 teniendo en cuenta que la multiplicacion de bases iguales se copian las bases y se suman los exponentes. 
   
 ### 7. Exprese cada uno de los numeros siguientes como un numero decimal regular:
 
@@ -133,7 +133,11 @@ Para sumar estos numeros debemos igualar las potencias recorriendo el punto deci
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;4.6&space;\times&space;10^{-9}&space;\right&space;)&space;=&space;\left&space;(&space;5.6&space;\times&space;10^{-8}&space;\right&space;)&space;&plus;&space;\left&space;(&space;0.46&space;\times&space;10^{-8}&space;\right&space;)=&space;\left&space;(&space;6.06&space;\times&space;10^{-8}&space;\right&space;)" title="\bg_black \inline \left ( 5.6 \times 10^{-8} \right ) + \left ( 4.6 \times 10^{-9} \right ) = \left ( 5.6 \times 10^{-8} \right ) + \left ( 0.46 \times 10^{-8} \right )= \left ( 6.06 \times 10^{-8} \right )" />
 
+ ### 11. Realice las siguientes multiplicaciones:
  
+ ![image](https://user-images.githubusercontent.com/93561706/140838859-2befb0c9-1678-4651-82ac-d6acc2674b54.png)
+
+* se debe resolver multiplicando los numeros reales entre si y la multiplicacion de bases iguales se copian las bases y se suman los exponentes, para ternimar tenemos que colocar las respuestas en notacion cientifica adecuadamente.
 
 ### 13. Exprese cada uno de los numeros siguientes en notacion de ingenieria:
 
@@ -178,6 +182,11 @@ Recorremos el punto decimal hasta que la potencia este en una potencia multiplo 
  
  <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;\left&space;(&space;1.29&space;\times&space;10^{-9}&space;\right&space;)" title="\bg_black \inline \left ( 1.29 \times 10^{-9} \right )" />
 
+### 17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
+
+![image](https://user-images.githubusercontent.com/93561706/140839315-e64e8c53-230b-4804-b538-5392f98a171e.png)
+
+* para poder sumar en notacion cientifica primero debemos ver que el exponente del 10 sean iguales, una vez que los exponentes sean iguales se procede a sumar los numeros enteros, y por ultimo colocamoos el resultado en notacion cientifica apropiadamente.
 
 
 ### 19.Divida los numeros siguientes y exprese cada resultado en notacion de ingenieria:
@@ -236,7 +245,11 @@ La potencia de 10 a la -6 corresponde a el prefijo micro, por lo tanto tenemos 3
 
 La potencia de 10 a la -9 corresponde a el prefijo nano, por lo tanto tenemos 1.29 nanoamperios
 
+### 23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
+![image](https://user-images.githubusercontent.com/93561706/140839557-5a5f6555-1280-4459-b131-fa1d2e852023.png)
+
+* se debe tener en cuenta la posicion de los prefijos metricos paar poder colocarlos adecuadamente
 
 ### 25.exprese cada cantidad convirtiendo el prefijo metrico en una potencia de diez:
 
@@ -301,6 +314,11 @@ Recorremos el punto decimal a la derecha hasta que la potencia de 10 sea 3:
 
 y tenemos 10000 kilowatts
 
+### 29. Sume las siguientes cantidades
+
+![image](https://user-images.githubusercontent.com/93561706/140839828-bdb092d0-0c83-4e77-9435-7dbd41f88633.png)
+
+* debemos colocar los valores en los mismos prefijo para poder sumar los valores.
 
 ## CAPITULO 2
 
@@ -321,7 +339,11 @@ Realizamos la operacion a traves de la formula de carga, seguido dividimos los n
 
 Obteniendo asi como resultado <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;8&space;\times&space;10^{13}&space;\&space;C" title="\bg_black \inline 8 \times 10^{13} \ C" /> coulumbs. 
 
+### 5. Determine el voltaje en cada uno de los siguientes casos:
 
+![image](https://user-images.githubusercontent.com/93561706/140840219-ce731cd9-5707-435d-bd89-6c1df1cbddc7.png)
+
+* se debe tener en cuenta la formula del voltaje para calcular, esta formula nos indica la relacion que hay entre la energia y la carga.
 
 ### 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
 
@@ -329,7 +351,6 @@ Obteniendo asi como resultado <img src="https://latex.codecogs.com/png.image?\dp
  w = 800 J    ,   Q = 40 C    ,   V = ?
 - una vez que conocemos los datos aplicamos la formula del voltaje de modo que la respuesta es la siguiente:  
  ![image](https://user-images.githubusercontent.com/93398718/140256389-bc618037-6c56-49f0-9ffe-0d7e8a19543e.png)
- 
  
 
 ### **9.  Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
@@ -344,6 +365,12 @@ Ahora calculamos el voltaje:
 
 Teniendo 33.33 volts.
 
+
+### 11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+ 
+ ![image](https://user-images.githubusercontent.com/93561706/140840366-e0f64357-acee-4dc5-99fe-fc31d50971ad.png)
+
+* se debe tener en cuenta la formula de la corriente para calcular, esta formula nos indica la relacion que hay entre la carga y el tiempo.
 
 
 ### 13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
@@ -382,6 +409,12 @@ Como sabemos el reciproco de la resistencia es la conductancia, por lo cual util
 
 Obteniendo 0.01 siemens
 
+### 17. Enliste cuatro fuentes de voltaje comunes
+
+1.	Batería 
+2.	Celdas solares
+3.	Generador 
+4.	Transformadores 
 
 ### 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 
@@ -417,7 +450,11 @@ Usamos el codigo de colores para resistencias:
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;R&space;=&space;1800&space;\&space;\Omega&space;\pm&space;10%" title="\bg_black R = 1800 \ \Omega \pm 10%" />
 
+### 23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:
 
+![image](https://user-images.githubusercontent.com/93561706/140840652-5d463935-2abc-4f9f-937d-8404f0ea6645.png)
+
+* para colocar los colores de las bandas debemos tener en cuenta el codigo de colores para resistores y las posiciones de cada banda para sacar su valor.
 
 ### 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
 
@@ -485,6 +522,11 @@ CUARTA BANDA: 9760 = n de ceros = CAFÉ
 
 QUINTA BANDA: Tolerancia 1% = CAFÉ
 
+### 29. ¿Cuál es la resistencia indicada por 4K7?
+
+![image](https://user-images.githubusercontent.com/93561706/140841087-9930ce9f-db99-4d29-93a1-d551f608c122.png)
+
+* se debe tener en cuenta las dos maneras que hay para rotular un resistor yasi poder calcular su respectiva resistencia.
 
 
 ### 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.  
@@ -501,7 +543,11 @@ QUINTA BANDA: Tolerancia 1% = CAFÉ
 
 El **CIRCUITO B** ya que como podemos observar existe un interruptor vía única-doble polo (DPST) el cual al accionar el interrumptor se prenden las dos laparas y los dos brazos cierran el circuito
 
+### 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue: VS1 conectada a R1 y VS2 conectada a R2 o VS1 conectada a R2 y VS2 conectada a R1.
 
+![image](https://user-images.githubusercontent.com/93561706/140841474-5a15fe5e-e665-4558-baf1-5c3736f5bc1b.png)
+
+* en el circuito esquematico se debe disponer de un interruptor que al presionar cambia de posicion y que realice lo que el ejercicio pide, como es el caso del circuito.
 
 ### 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.    
 ![image](https://user-images.githubusercontent.com/93398718/140439555-d9b4cee4-1e0f-4528-8d3f-09983332b621.png)
@@ -521,6 +567,17 @@ El **CIRCUITO B** ya que como podemos observar existe un interruptor vía única
 ![image](https://user-images.githubusercontent.com/93361435/140431269-d4d869a4-29b1-401c-bbf6-bdeaf845b545.png)
 
 Al posicionar el interruptor en la posicion 1 tenemos que V2 = VS  y V1 = 0, de igual manera la posicionar en 2 V1 = VS Y V2 = 0, ya que al ser un interrumptor de una sola via solamente accionara parte del circuito.
+
+### 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
+
+![image](https://user-images.githubusercontent.com/93561706/140841718-06b9d286-1588-4264-ba68-22d9146b14fb.png)
+
+Para medir la corriente en amperios se debe colocar el multímetro en varias posiciones para comprobar que el circuito funcione adecuadamente:
+•	Entre la fuente de corriente y el interruptor rotatorio
+•	Entre el interruptor y la resistencia de acuerdo a la posición del interruptor.
+•	Entre el las ultimas resistencias.
+
+![image](https://user-images.githubusercontent.com/93561706/140841753-aa59f2c2-67d5-4f7e-a0e8-903cd5b23649.png)
 
 
 ### 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?  
@@ -550,6 +607,26 @@ Obteniendo 1.5 Mega ohmios
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;45\times&space;100&space;=&space;4500&space;\&space;\Omega&space;=&space;&space;4.5&space;\&space;k&space;\Omega&space;" title="\bg_black \inline 45\times 100 = 4500 \ \Omega = 4.5 \ k \Omega " />
 
 Obteniendo 4.5 kilo-ohmios
+
+### 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. 
+
+(a) I
+
+![image](https://user-images.githubusercontent.com/93561706/140842048-3a601f6a-da43-44c3-9476-4837414db141.png)
+
+Se debe colocar el multímetro entre la resistencia 1 y la resistencia 2 para poder medir la corriente del circuito.
+
+(b) V
+
+![image](https://user-images.githubusercontent.com/93561706/140842061-bba75f95-5fd3-4ee3-b6d4-e06d1d1ce710.png)
+
+Se debe colocar el multímetro en el nodo y la tierra  para formar un circuito en paralelo en donde se encuentra la resistencia 3.
+
+(c) R
+
+![image](https://user-images.githubusercontent.com/93561706/140842089-93c111a0-20dc-4a3f-83ee-ecba2059c21d.png)
+
+Para poder medir el valor de la resistencia de debe sacar la resistencia del circuito y conectar al multímetro con sus respectivos terminales + a + y – a – para tener el cálculo del mismo. 
 
 
 # VIDEO
