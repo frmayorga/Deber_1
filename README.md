@@ -612,19 +612,19 @@ Obteniendo 4.5 kilo-ohmios
 
 (a) I
 
-![image](https://user-images.githubusercontent.com/93561706/140842048-3a601f6a-da43-44c3-9476-4837414db141.png)
+![image](https://user-images.githubusercontent.com/93561706/140842280-83d87f15-1cb0-4c5c-be5a-e2f978c10d7b.png)
 
 Se debe colocar el multímetro entre la resistencia 1 y la resistencia 2 para poder medir la corriente del circuito.
 
 (b) V
 
-![image](https://user-images.githubusercontent.com/93561706/140842061-bba75f95-5fd3-4ee3-b6d4-e06d1d1ce710.png)
+![image](https://user-images.githubusercontent.com/93561706/140842349-51a54686-1d2a-4398-a278-ce7fc0d88c4d.png)
 
 Se debe colocar el multímetro en el nodo y la tierra  para formar un circuito en paralelo en donde se encuentra la resistencia 3.
 
 (c) R
 
-![image](https://user-images.githubusercontent.com/93561706/140842089-93c111a0-20dc-4a3f-83ee-ecba2059c21d.png)
+![image](https://user-images.githubusercontent.com/93561706/140842474-e4c1fad6-5ce0-4693-9bf9-35081be341e0.png)
 
 Para poder medir el valor de la resistencia de debe sacar la resistencia del circuito y conectar al multímetro con sus respectivos terminales + a + y – a – para tener el cálculo del mismo. 
 
