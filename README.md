@@ -631,6 +631,7 @@ Para poder medir el valor de la resistencia de debe sacar la resistencia del cir
 
 # VIDEO
 
+https://www.youtube.com/watch?v=mEmZZk231ng
 
 # CONCLUSIONES 
 
